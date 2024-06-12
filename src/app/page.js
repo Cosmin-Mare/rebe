@@ -12,7 +12,7 @@ export default function Home() {
           <img src="/1.jpg" class="item-img1"/>
         </div>
         <div class="item2">
-          <p class="item-title2">ma intelege si ne intelegem bine🥰</p>
+          <p class="item-title2">ma intelege si ne intelegem f bine🥰</p>
           <img src="/2.png" class="item-img2"/>
         </div>
         <div class="item3">
