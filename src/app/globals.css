@@ -28,6 +28,17 @@ img.title{
   text-align: center;
 }
 
+.item1{
+  position:relative;
+}
+.small-text{
+  position: absolute;
+  top: 350px;
+  z-index: 100;
+  bottom: 0;
+}
+
+
 .item-img1, .item-img2, .item-img3{
   height: 400px;
 }
