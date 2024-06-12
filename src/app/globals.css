@@ -32,13 +32,17 @@ img.title{
   height: 400px;
 }
 
-.item-title1, .item-title2, .item-title3{
+.item-title1, .item-title2, .item-title3, .small-text{
   width: 100%;
   height: 100%;
   font-size: 2em;
   font-weight: bold;
   color: #fff;
   margin-bottom: 0;
+}
+
+.small-text{
+  font-size: 1em;
 }
 
 .list{

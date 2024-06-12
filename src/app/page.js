@@ -10,6 +10,7 @@ export default function Home() {
         <div class="item1">
           <p class="item-title1">e foarte frumoasa</p>
           <img src="/1.jpg" class="item-img1"/>
+          <p class="small-text">(si sexy)</p>
         </div>
         <div class="item2">
           <p class="item-title2">ma intelege si ne intelegem f bine🥰</p>
